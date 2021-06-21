@@ -1,0 +1,16 @@
+.italic {
+  font-style: italic;
+  font-size: 20px;
+}
+.initial {
+  font-style: initial;
+  font-size: 20px;
+}
+.none {
+  font-style: none;
+  font-size: 20px;
+}
+.oblique {
+  font-style: oblique;
+  font-size: 20px;
+}

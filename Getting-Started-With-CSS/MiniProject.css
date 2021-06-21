@@ -1,0 +1,27 @@
+body {
+  background-color: powderblue;
+  margin: 0;
+}
+nav {
+  height: 85px;
+  margin: 0;
+  background-color: rgb(78, 81, 170);
+  border-bottom: 3px solid #fff;
+}
+.note {
+  color: rgb(95, 92, 92);
+  margin: 5px;
+}
+form {
+  margin: 30px auto;
+  font-size: 15px;
+  padding: 25px;
+  color: #000;
+  width: 250px;
+  background-color: rgb(154, 255, 159);
+}
+input,
+textarea,
+button {
+  background-color: rgb(255, 213, 213);
+}

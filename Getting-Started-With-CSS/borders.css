@@ -1,0 +1,16 @@
+body {
+  background-color: #ebe5e5;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  /* background-color: #fff;
+  border: 2px solid red;
+  padding: 25px; */
+  background-color: #fff;
+  border-bottom-color: brown;
+  border-bottom-style: solid;
+  padding: 12px;
+  border-bottom-width: 3px;
+}

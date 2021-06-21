@@ -1,0 +1,10 @@
+body {
+  background-color: aliceblue;
+  margin: 0;
+}
+.serif {
+  font-family: Times;
+}
+.sans {
+  font-family: Arial;
+}

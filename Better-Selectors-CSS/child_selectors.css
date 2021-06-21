@@ -1,0 +1,4 @@
+div > div > p {
+  color: crimson;
+  font-size: larger;
+}

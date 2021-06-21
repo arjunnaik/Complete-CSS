@@ -1,0 +1,8 @@
+#body div p {
+  font-size: large;
+  color: blueviolet;
+}
+#body div p span.span {
+  font-size: large;
+  color: rgb(43, 226, 125);
+}

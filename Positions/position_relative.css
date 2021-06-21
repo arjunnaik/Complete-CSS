@@ -1,0 +1,10 @@
+.rel {
+  display: inline-block;
+  background-color: yellow;
+  border: 1px solid blue;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  top: 50px;
+  left: 250px;
+}

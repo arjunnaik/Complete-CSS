@@ -1,0 +1,19 @@
+body {
+  margin: 55px 0 0 0;
+  height: 2200px;
+  background-color: rgb(161, 184, 184);
+}
+nav {
+  display: block;
+  width: 100%;
+  color: #000;
+  text-align: center;
+  position: fixed;
+  font-size: large;
+  height: 55px;
+  top: 0;
+  background-color: #fff;
+}
+p {
+  text-align: center;
+}

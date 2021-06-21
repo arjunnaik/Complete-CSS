@@ -1,0 +1,14 @@
+.indent1 {
+  text-indent: 50px;
+}
+.indent2 {
+  text-indent: -1.5cm;
+}
+
+.indent3 {
+  text-indent: initial;
+}
+
+.indent4 {
+  text-indent: 50%;
+}

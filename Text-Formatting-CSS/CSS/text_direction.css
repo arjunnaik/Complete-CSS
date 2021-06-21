@@ -1,0 +1,9 @@
+p {
+  direction: ltr;
+}
+
+input {
+  direction: rtl;
+  height: 20px;
+  width: 100%;
+}

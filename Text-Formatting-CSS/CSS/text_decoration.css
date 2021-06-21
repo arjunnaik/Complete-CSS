@@ -1,0 +1,17 @@
+.decoration-underline {
+  text-decoration: underline;
+}
+.decoration-overline {
+  text-decoration: overline;
+}
+.decoration-strike {
+  text-decoration: line-through;
+}
+.decoration-color {
+  text-decoration: overline;
+  text-decoration-color: red;
+}
+.decoration-style {
+  text-decoration: line-through;
+  text-decoration-style: dotted;
+}

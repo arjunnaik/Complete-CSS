@@ -1,0 +1,13 @@
+.spacing1 {
+  letter-spacing: -2px;
+}
+.spacing2 {
+  letter-spacing: 2px;
+}
+.spacing3 {
+  letter-spacing: 5;
+}
+
+.spacing4 {
+  letter-spacing: 50%;
+}

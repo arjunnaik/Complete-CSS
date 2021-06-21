@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background-color: powderblue;
+}
+p.left {
+  text-align: left;
+}
+p.right {
+  text-align: right;
+}
+p.center {
+  text-align: center;
+}
+p.justufy {
+  text-align: justify;
+}

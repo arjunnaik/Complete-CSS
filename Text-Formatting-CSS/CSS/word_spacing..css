@@ -1,0 +1,14 @@
+.spacing1 {
+  word-spacing: -5px;
+}
+.spacing2 {
+  word-spacing: 5px;
+}
+
+.spacing3 {
+  word-spacing: 1.5cm;
+}
+
+.spacing4 {
+  word-spacing: 50%;
+}

@@ -1,0 +1,5 @@
+ol {
+  list-style-image: url("download.gif");
+
+  list-style-position: inside;
+}

@@ -1,0 +1,6 @@
+ol.inside {
+  list-style-position: inside;
+}
+ol.outside {
+  list-style-position: outside;
+}

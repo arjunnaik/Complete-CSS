@@ -1,0 +1,8 @@
+body {
+  overflow: hidden;
+}
+
+p {
+  width: 200%;
+  border: 2px solid black;
+}
